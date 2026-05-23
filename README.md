@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chris Carpio
+# 👋 Hey Everyone, I'm Chris Carpio
 
 IT Professional with 7+ years of experience in endpoint security, cloud infrastructure, and client-facing technical support.
 

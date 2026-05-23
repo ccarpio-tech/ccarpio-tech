@@ -1,4 +1,8 @@
-## Hi there 👋
+👋 Hi, I'm Chris — an IT professional with 7+ years of experience in endpoint security, cloud infrastructure, and client-facing technical support.
+🔧 Currently building hands-on AWS projects while pursuing AWS Solutions Architect Associate certification.
+🛡️ Certifications: CompTIA Security+ | CompTIA Network+ | AWS Cloud Practitioner | Azure Fundamentals AZ-900
+☁️ Focus areas: Cloud Architecture | Identity & Access Management | Network Security | Microsoft 365
+📫 Reach me at: christopher.carpio@outlook.com
 
 <!--
 **ccarpio-tech/ccarpio-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

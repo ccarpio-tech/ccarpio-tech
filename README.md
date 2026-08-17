@@ -1,18 +1,35 @@
-# 👋 Hey Everyone, I'm Chris Carpio
+# 👋 Hey, I'm Chris Carpio
 
-IT Professional with 7+ years of experience in endpoint security, cloud infrastructure, and client-facing technical support.
+IT professional with 7+ years of experience across technical support, systems administration, endpoint security, and IT infrastructure. Currently transitioning into cloud engineering and building hands-on AWS projects to apply my infrastructure background in the cloud.
 
-## 🔧 Currently
-Building hands-on AWS projects while pursuing AWS Solutions Architect Associate (SAA-C03) certification.
+## ☁️ What I'm Working On
+
+* Building an AWS cloud portfolio through hands-on projects
+* Learning Terraform and Infrastructure as Code
+* Deploying AWS infrastructure using services like S3, CloudFront, IAM, VPC, and EC2
+* Strengthening my cloud engineering, networking, and automation skills
 
 ## 🛡️ Certifications
-- CompTIA Security+
-- CompTIA Network+
-- AWS Cloud Practitioner
-- Microsoft Azure Fundamentals AZ-900
 
-## ☁️ Focus Areas
-Cloud Architecture | Identity & Access Management | Network Security | Microsoft 365
+* AWS Certified Solutions Architect – Associate
+* AWS Certified CloudOps Engineer – Associate
+* AWS Certified Cloud Practitioner
+* CompTIA Security+
+* CompTIA Network+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
 
-## 📫 Reach Me
-christopher.carpio@outlook.com
+## 🛠️ Technologies
+
+**Cloud:** AWS, Microsoft Azure
+**Infrastructure:** Windows Server, Active Directory, VMware, Veeam
+**Networking & Security:** WatchGuard, Meraki, CrowdStrike
+**Microsoft:** Microsoft 365, Exchange Online, SharePoint, OneDrive
+**Currently Learning:** Terraform
+
+## 🚀 Current Goal
+
+I'm working toward a cloud engineering, cloud operations, or cloud support role where I can combine my systems administration background with AWS and Infrastructure as Code.
+
+## 📫 Connect With Me
+
+**Email:** [christopher.carpio@outlook.com](mailto:christopher.carpio@outlook.com)
